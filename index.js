@@ -18,7 +18,6 @@ function distanceTravelledInFeet(startBlock, endBlock) {
       return (endBlock - startBlock) * 264;}
 }
 
-
 function calculatesFarePrice(someValue) {
   
 }
