@@ -12,7 +12,7 @@ function distanceFromHqInFeet (someValue) {
 }
 
 function distanceTravelledInFeet(startBlock, endBlock) {
-  
+  if (startBlock > endBlock)
 }
 
 
