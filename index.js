@@ -15,8 +15,7 @@ function distanceTravelledInFeet(startBlock, endBlock) {
   if (startBlock > endBlock) {
     return (startBlock - endBlock) * 264;}
       else (endBlock - startBlock) {
-      return (endBlock - startBlock) * 264;
-      }
+      return (endBlock - startBlock) * 264;}
 }
 
 
