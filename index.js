@@ -4,7 +4,7 @@ function distanceFromHqInBlocks(someValue){
   if (someValue >= 42) {
     return someValue - 42}
     else 
-      return 42 - someValue
+      return 42 - someValue;
   
 }
 
